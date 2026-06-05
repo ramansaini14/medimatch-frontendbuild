@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/medimatch-frontendmodel//_next/:path+",
-        "destination": "/medimatch-frontendmodel/_next/:path+"
+        "source": "/medimatch-frontendbuild//_next/:path+",
+        "destination": "/medimatch-frontendbuild/_next/:path+"
       }
     ],
     "fallback": []
